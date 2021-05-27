@@ -18,3 +18,22 @@ Your mission is to build a page that:
     As you make changes, you will obviously want to see the results. To do so, re-save the file in your text editor, then click Refresh in the browser window (or use cmd+R on a Mac, ctrl+R on Windows).
     Rely on the reference sites linked on this page, or find others online. We haven’t taught you every detail about every tag that you may want or need.
     You’re free to use tags that haven’t been explicitly introduced in class. We’ve given you enough background to get started, and are intentionally leaving some of the learning up to you
+
+Requirements
+***Your CSS must:***
+
+Use margin and padding to space your elements in a visually pleasing way.
+Use at least one of each of the following types of selectors:
+element,
+class,
+id.
+Follow these rules:
+Avoid adding HTML elements in order to achieve a specific visual effect.
+Use document-level and inline styles sparingly, and only when absolutely necessary.
+Be creative! Make your page look great, and don’t just settle for checking off the items above. Have a look at CSS Zen Garden for inspiration (use your browser’s developer tools to see how those pages’ styles are built).
+Notes
+In order to see any visible change, make sure to link the stylesheet to your main document.
+Feel free to check out our styled example to see how we did things. Use “View Source” (by right-clicking anywhere on the page and selecting View Source).
+Another thing you might find useful is your browser’s developer tools.
+And be sure to use the Resources section below as you go.
+Resources
